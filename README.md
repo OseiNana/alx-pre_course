@@ -1,1 +1,1 @@
-My first readme
+Nana Osei's first readme
